@@ -1,0 +1,13 @@
+AC PAPELARIA — DEMONSTRAÇÃO COM 6 PÁGINAS
+
+Arquivos: index.html, catalogo.html, produto.html, sobre.html, contato.html, carrinho.html, style.css, extra.css, site.js, produtos.js e img/.
+
+PUBLICAR NO GITHUB PAGES:
+1. Extraia o ZIP.
+2. Envie o CONTEÚDO da pasta ac_papelaria_6_paginas diretamente para a raiz do repositório (não envie a pasta como subpasta).
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Aguarde a publicação e abra o link do GitHub Pages.
+
+Produtos e imagens são ilustrativos do projeto Entrelinhas. Peça autorização dos autores antes de uso comercial.
+Para habilitar pedidos: edite WHATSAPP_LOJA no arquivo site.js, informando número comercial autorizado no formato 55 + DDD + número.
+O carrinho usa localStorage no navegador, sem banco de dados. Não há pagamento nem pedido automático.
