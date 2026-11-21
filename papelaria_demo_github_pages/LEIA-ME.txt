@@ -1,0 +1,11 @@
+DEMONSTRAÇÃO ESTÁTICA - PAPELARIA
+
+Arquivos adaptados do projeto Entrelinhas enviado pela usuária.
+1. Envie o CONTEÚDO desta pasta para a raiz do repositório papelaria-demo (não envie a pasta por fora).
+2. No GitHub, Settings > Pages > Deploy from a branch > main > /(root).
+3. Abra https://yas2160.github.io/papelaria-demo/ após a publicação.
+4. Para ativar o botão de WhatsApp, edite WHATSAPP_LOJA no app.js com número comercial autorizado (DDI+DDD+número, só dígitos).
+5. Substitua produtos ilustrativos em produtos.js e imagens em img/; troque nome/cores após aprovação.
+6. Este modelo não tem PHP, MySQL, painel administrativo, pagamento ou pedidos salvos.
+7. Confirme autorização do grupo para uso e publicação comercial do código e imagens.
+8. Não publique arquivos de configuração, senhas ou banco de dados do projeto original.
